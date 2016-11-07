@@ -19,6 +19,10 @@ body {
 	background: url('../img/tile.jpg') top left repeat;
 	
 }
+/* Modal body */
+#myModal {
+	background: url('../img/tile.jpg') top left repeat;
+}
 
 h1,h2,h3,h4,h5,h6 {
 	-webkit-font-smoothing: antialiased;
